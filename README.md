@@ -6,4 +6,4 @@ First, the script imports the requests library and sets the login URL and creden
 
 By Replacing YOUR_USERNAME, YOUR_PASSWORD and YOUR_URL you can login through your Terminal.
 
-This is the Unique and a programmer way to LOGIN into the Web-Sites
+This is the Unique and a programmer way to LOGIN into the Web-Sites.
