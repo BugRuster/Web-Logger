@@ -1,4 +1,4 @@
-# WEBSITE LOGGER 
+# Terminal Web Logger (v0.1.0)
 
 The Python script above demonstrates how to use the requests library to log in to a website. The script sends an HTTP POST request to the login page with the provided login credentials and handles the response.
 
@@ -7,3 +7,5 @@ First, the script imports the requests library and sets the login URL and creden
 By Replacing YOUR_USERNAME, YOUR_PASSWORD and YOUR_URL you can login through your Terminal.
 
 This is the Unique and a programmer way to LOGIN into the Web-Sites.
+
+More Features Coming Soon. Stay Tuned !
